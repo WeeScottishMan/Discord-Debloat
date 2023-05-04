@@ -1,0 +1,94 @@
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.theme.css);
+@import url(https://raw.githubusercontent.com/qt-kaneko/Chat-Bubbles/main/ChatBubbles.theme.css);
+
+.circleButtonMask-1_597P, .circleIconButton-1VxDrg {
+        color: white
+}
+
+#app-mount .circleIconButton-1VxDrg.selected-2r1Hvo {
+        background-color: rgba(255, 255, 255 ,0.5);
+}
+
+.premiumTab-39eQzY  {
+  display: none;
+}
+
+.background-Gjdjzm {
+  display: none;
+}
+
+.fixedBottomList-1yrBla {
+        display: none;
+}
+
+a[href="/store"] {
+        display: none;
+}
+
+div[aria-label="Inbox"] {
+        display: none;
+}
+
+a[href="https://support.discord.com"]
+{
+        display: none;
+}
+
+.searchLearnMore-1gNL3A {
+        display: none;
+}
+
+button[aria-label="Send a gift"] {
+        display: none;
+}
+
+button[aria-label="Open sticker picker"] {
+        display: none;
+}
+
+button[aria-label="Open GIF picker"] {
+        display: none;
+}
+
+.tutorialContainer-2jwoiB+div { 
+        display: none;
+}
+
+.subtext-2HDqJ7 {
+        display: none;
+}
+
+.akaBadge-3i7V3p, .nicknames-10Sg6e {
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out;
+}
+.akaBadge-3i7V3p {
+        display: none;
+}
+
+.nicknames-10Sg6e:hover {
+        opacity: 1;
+}
+
+.profile-customization-tab {
+        display: none !important;
+}
+
+.premiumFeatureBorder-1i95si, featureBorder-2Jl8g4, tryItOutSection-W9qeGH {
+        display: none;
+}
+
+.showBorder-2hbqaq {
+        display: none;
+}
+
+.upsellOverlayContainer-3NMgTS {
+        display: none;
+}
+
+.banner-iQGw2h {
+        display: none;
+}
+
+
