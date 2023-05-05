@@ -1,0 +1,113 @@
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import url('https://raw.githubusercontent.com/WeeScottishMan/Discord-Debloat/main/NEONOIR%20Resources.css');
+
+.circleButtonMask-1_597P, .circleIconButton-1VxDrg {
+        color: white
+}
+
+#app-mount .circleIconButton-1VxDrg.selected-2r1Hvo {
+        background-color: rgba(255, 255, 255 ,0.5);
+}
+
+#app-mount .item-1TA5qI .radioBar-1XgZqD[style*="--radio-bar-accent-color"] {
+        background: none;
+}
+
+.titleBar-1it3bQ::before {
+  content: var(--title-text, "N E O N O I R");
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 550;
+  color: var(--text-muted);
+  position: absolute;
+  top: -4px;
+  left: 0;
+  height: 18px;
+  padding: 3px;
+  line-height: 23px;
+  font-size: 14px;
+  letter-spacing: 0;
+  z-index: 1;
+}
+
+.wordmark-2u86JB {
+  display: none !important;
+}
+
+.premiumTab-39eQzY  {
+  display: none;
+}
+
+.background-Gjdjzm {
+  display: none;
+}
+
+.fixedBottomList-1yrBla {
+        display: none;
+}
+
+a[href="/store"] {
+        display: none;
+}
+
+div[aria-label="Inbox"] {
+        display: none;
+}
+
+a[href="https://support.discord.com"]
+{
+        display: none;
+}
+
+.searchLearnMore-1gNL3A {
+        display: none;
+}
+
+button[aria-label="Send a gift"] {
+        display: none;
+}
+
+button[aria-label="Open sticker picker"] {
+        display: none;
+}
+
+
+.tutorialContainer-2jwoiB+div { 
+        display: none;
+}
+
+.subtext-2HDqJ7 {
+        display: none;
+}
+
+.akaBadge-3i7V3p, .nicknames-10Sg6e {
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out;
+}
+.akaBadge-3i7V3p {
+        display: none;
+}
+
+.nicknames-10Sg6e:hover {
+        opacity: 1;
+}
+
+.profile-customization-tab {
+        display: none !important;
+}
+
+.premiumFeatureBorder-1i95si, featureBorder-2Jl8g4, tryItOutSection-W9qeGH {
+        display: none;
+}
+
+.showBorder-2hbqaq {
+        display: none;
+}
+
+.upsellOverlayContainer-3NMgTS {
+        display: none;
+}
+
+.banner-iQGw2h {
+        display: none;
+}
