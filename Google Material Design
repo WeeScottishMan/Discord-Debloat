@@ -1691,6 +1691,9 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
 button[aria-label="Send a gift"] {
     display: none;
 }
+.animatedContainer-2laTjx, .bannerImage-ubW8K-{
+    width: 240px;
+}
 .banner-iQGw2h {
         display: none;
 }
